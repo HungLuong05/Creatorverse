@@ -1,0 +1,42 @@
+/* margin: top right bottom left */
+
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #272C36;
+  margin: 100px auto;
+  width: 80%;
+  border-radius: 10px;
+}
+
+.close {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 20px 0 0 90%;
+}
+
+.modal img {
+  margin: 0 0 20px 0;
+  border-radius: 10px;
+}
+
+.icon_social_media {
+  margin-top: 2px;
+  color: #E1306C;
+}
+
+.social_media {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 0 20px 50px;
+  width: 400px;
+}
+
+.modal p {
+  width: 400px;
+  margin: 0 0 20px 0;
+}
