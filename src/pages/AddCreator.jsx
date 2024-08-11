@@ -40,14 +40,14 @@ export default function AddCreator() {
                     <p>Description</p>
                     <input name="Description" id="Description" type="text" required/>
                 </label>
+                <p className={styles.socialMediaHeader}>Social media links</p>
                 <label className={styles.form}>
-                    <p className="social-media-header">Social media links</p>
                     <p>Instagram</p>
                     <input name="Instagram" id="Instagram" type="text"/>
-                    <p>X</p>
+                    {/* <p>X</p>
                     <input name="X" id="X" type="text"/>
                     <p>YouTube</p>
-                    <input name="YouTube" id="YouTube" type="text"/>
+                    <input name="YouTube" id="YouTube" type="text"/> */}
                 </label>
                 <input type="submit" value="Submit"/>
             </form>

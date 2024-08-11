@@ -82,21 +82,17 @@ export default function EditCreator(props) {
               </label>
               <label className={styles.form}>
                   <p>Description</p>
-                  <input name="Description" id="Description" type="text" required value={creatorData.Description}/>
+                  <input name="Description" id="Description" type="text" required value={creatorData.Description} onChange={handleChange}/>
               </label>
-              <p className="social-media-header">Social media links</p>
+              <p className={styles.socialMediaHeader}>Social media links</p>
               <label className={styles.form}>
-                  <p>Instagram</p>
-                  <input name="Instagram" id="Instagram" type="text" value={creatorData.Instagram}/>
-              </label>
-              <label className={styles.form}>
-                  <p>X</p>
-                  <input name="X" id="X" type="text"/>
-              </label>
-              <label className={styles.form}>
-                  <p>YouTube</p>
-                  <input name="YouTube" id="YouTube" type="text"/>
-              </label>
+                    <p>Instagram</p>
+                    <input name="Instagram" id="Instagram" type="text" value={creatorData.Instagram} onChange={handleChange}/>
+                    {/* <p>X</p>
+                    <input name="X" id="X" type="text"/>
+                    <p>YouTube</p>
+                    <input name="YouTube" id="YouTube" type="text"/> */}
+                </label>
               <input type="submit" value="Submit"/>
           </form>
       </div>

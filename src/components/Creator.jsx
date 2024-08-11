@@ -16,6 +16,8 @@ export default function Creator(props) {
         if (response.error) {
             console.error('Error adding creator:', response.error);
         }
+
+        window.location = "/";
     }
 
     const process = (url) => {
