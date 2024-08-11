@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://github.com/HungLuong05/WEB103_Prework/creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='./creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with 👉🏿 LiceCap
