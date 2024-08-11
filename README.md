@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 <!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
 - [x] **A logical component structure in React is used to create the frontend of the app**
-- [ ] **At least five content creators are displayed on the homepage of the app**
+- [x] **At least five content creators are displayed on the homepage of the app**
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
 - [x] **API calls use the async/await design pattern via Axios or fetch()**
 - [x] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Validator to prevent user enter symbol '?' into field "Name" because value of "Name" is used in URL, and the symbol '?' breaks the logic to extract params from URL.
+* [x] Validator to prevent user enter symbol '?' into field "Name". The value of "Name" is used in URL, and the symbol '?' breaks the logic to extract params from URL.
 
 ## Video Walkthrough
 
