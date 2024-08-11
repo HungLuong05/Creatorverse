@@ -10,7 +10,6 @@ Time spent: **👉🏿 50** hours
 
 The following **required** functionality is completed:
 
-<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
 - [x] **A logical component structure in React is used to create the frontend of the app**
 - [x] **At least five content creators are displayed on the homepage of the app**
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
@@ -35,20 +34,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://github.com/HungLuong05/WEB103_Prework/creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with 👉🏿 LiceCap
 
 ## Notes
 
 Challenges I went through:
 - It took me a signficant amount of time to design the website and modify the css files.
-- Getting params from URL did not went as expected when the symbol '?' was presented in the name field. I accidentally encountered this when testing, so I made a validator function and alert message to address the issue.
+- Getting params from URL did not went as expected when the symbol '?' was presented in the name field. It took me a while to figure out this issue, so I made a validator function and alert message to address the issue.
 
 ## License
 
