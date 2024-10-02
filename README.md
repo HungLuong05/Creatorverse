@@ -4,7 +4,7 @@ Submitted by: **👉🏿 Duc Hung Luong**
 
 About this web app: **👉🏿 A web application to manage favorite content creators! With this app, users can easily add, edit, and delete content creators, ensuring that their list of favorites is always up-to-date**
 
-Time spent: **👉🏿 50** hours
+Time spent: **👉🏿 25** hours
 
 ## Required Features
 
