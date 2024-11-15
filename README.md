@@ -1,10 +1,10 @@
-# WEB103 Prework - *👉🏿 Creatorverse*
+*Creatorverse*
 
-Submitted by: **👉🏿 Duc Hung Luong**
+Submitted by: **Duc Hung Luong**
 
-About this web app: **👉🏿 A web application to manage favorite content creators! With this app, users can easily add, edit, and delete content creators, ensuring that their list of favorites is always up-to-date**
+About this web app: **A web application to manage favorite content creators! With this app, users can easily add, edit, and delete content creators, ensuring that their list of favorites is always up-to-date**
 
-Time spent: **👉🏿 25** hours
+Time spent: **25** hours
 
 ## Required Features
 
@@ -34,10 +34,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='./creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with 👉🏿 LiceCap
+GIF created with LiceCap
 
 ## Notes
 
@@ -47,7 +47,7 @@ Challenges I went through:
 
 ## License
 
-Copyright [👉🏿 2024] [👉🏿 Duc Hung Luong]
+Copyright [2024] [Duc Hung Luong]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
